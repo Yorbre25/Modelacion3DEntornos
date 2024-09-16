@@ -1,9 +1,3 @@
 # Modelacion3DEntornos
 
-## Point Cloud Registration Model: Based on SpinNet.
-
-### Requirements
-
-- pytorch
-- opend3d
-- cuda
+Para instalar el paquete learning3d se necesita tener python 3.8
